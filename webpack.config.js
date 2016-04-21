@@ -1,13 +1,16 @@
 'use strict'
 
+// npm
 const sortBy = require('lodash.sortby')
 const groupBy = require('lodash.groupby')
+
+// data
 const day = require('./day-one.json')
 
 module.exports = {
   entry: [
     './entry.js',
-    'file?name=index.html!jade-html!./index.jade?day=john'
+    'file?name=index.html!jade-html!./index.jade'
   ],
   output: {
     path: __dirname,

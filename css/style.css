@@ -1,6 +1,7 @@
 @import 'reset/reeeset.min.css';
 
-@custom-media --medium-viewport (max-width: 70em);
+@custom-media --tiny-viewport (width < 35em);
+@custom-media --medium-viewport (width >= 35em) and (width < 70em);
 
 body {
   width: 90%;
@@ -85,6 +86,12 @@ section {
       }
     }
   }
+  @media (--tiny-viewport) {
+    & div.main {
+      lost-waffle: 1/1;
+    }
+  }
+
   @media (--medium-viewport) {
     & div.main {
       lost-waffle: 1/2;
