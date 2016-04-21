@@ -1,52 +1,30 @@
-# Explorons webpack et lost (grid) [![Dependency Status](https://gemnasium.com/badges/github.com/millette/meridas.svg)](https://gemnasium.com/github.com/millette/meridas)
+# Les découvertes GitHub quotidiennes [![Dependency Status](https://gemnasium.com/badges/github.com/millette/meridas.svg)](https://gemnasium.com/github.com/millette/meridas)
 
-```sh
-$ npm install
-$ npm start
-```
+**Démo sur <http://meridas.rollodeqc.com/millette/>.**
 
-**En savoir plus? [webpack-et-lost sur robin.millette.info](http://robin.millette.info/webpack-et-lost).**
+Je suis très très très très légèrement compulsif. Par exemple,
+j'ai déjà mis [des étoiles à plus de 5500 projets sur GitHub][] depuis
+le début de 2009.
 
-Deux autres scripts sont configurés:
+Beaucoup de ces projets sont aussi *packagés* ailleurs:
 
-```sh
-$ npm run lint # utilise standard (feross) pour vérifier le JavaScript.
-$ npm run make
-```
+* npm
+* bower
+* maven
+* etc.
 
-```npm run make``` lance d'abord ```lint``` puis crée les fichiers
-**index.html** et **bundle.js** nécessaires à un site statique et
-copie tout le nécessaire dans dist/ (favicon et tout).
+Le Méridas permet d'afficher les projets sources et
+leurs variations en paquets quand elles existent.
+J'utilise l'excellent API de <https://libraries.io/>
+avec mon module npm [librarian-api][] pour regrouper ces informations.
 
-Éditez index.jade et css/style.css à votre goût, sauvez et le browser
-se met à jour.
-
-Naviguez vers <http://localhost:1234>.
-
-# En savoir plus
-Le plus important, c'est de comprendre Lost pour gérer le grid html.
-
-## Lost Grid
-<https://github.com/peterramsing/lost>
-
-## Boy
-<https://github.com/corysimmons/boy>
-
-## Responsive Type
-<https://github.com/seaneking/postcss-responsive-type> *inspiré de Typographic*
-
-## Jade (templates)
-<http://jade-lang.com/reference/>
-
-## Webpack
-<https://github.com/webpack/webpack>
-
-## PostCSS
-<https://github.com/postcss/postcss>
-
-## cssnext
-<https://github.com/MoOx/postcss-cssnext/>
+## À venir
+Pour le moment, il ne s'agit que d'un seul snapshot dans le temps, mais
+le but est d'offrir une archive quotidienne. À suivre!
 
 # L'auteur
 ## Robin Millette
 <http://robin.millette.info/> <https://twitter.com/rollodeqc>
+
+[des étoiles à plus de 5500 projets sur GitHub]: https://github.com/stars/millette
+[librarian-api]: https://github.com/millette/librarian-api
