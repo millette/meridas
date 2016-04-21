@@ -1,7 +1,7 @@
 extends ./_layout.jade
 
 mixin groups(g)
-  -const keys = Object.keys(g)//.slice(1, 2)
+  -const keys = sortBy(Object.keys(g), (x) => g[x].length).reverse()
   each k, i in keys
     div.main.tabs
       ul
@@ -33,16 +33,18 @@ mixin proj(d, c, j)
       p #{d.forks_count} forks
 
 block title
-  title Hehaaamwaha
+  title Méridas de Robin Millette
 
 block content
-  h1 Hop
-  h2 Les projects:
+  h1 Méridas
+  p: a(href='https://github.com/stars/millette') Étoiles sur github/millette
+  h2 Les #{Object.keys(grouped).length} projets de la journée:
 
   section
     +groups(grouped)
 
   footer
-    p Until à la prochaine, #{day.length} projets ça suffit pour aujourd'hui!
-
-    //pre= JSON.stringify(grouped, null, ' ')
+    p Obtenir les sources:
+      a(href='https://github.com/millette/meridas')  https://github.com/millette/meridas
+    p Un projet de
+      a(href='http://robin.millette.info/')  Robin Millette

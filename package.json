@@ -1,6 +1,6 @@
 {
-  "name": "dais",
-  "description": "Exploring webpack and lost.",
+  "name": "meridas",
+  "description": "Projets I'm starring daily on github.",
   "license": "MIT",
   "version": "5.0.0",
   "repository": "millette/boy-lost-webpack",
@@ -29,6 +29,7 @@
     "jade": "^1.11.0",
     "jade-html-loader": "github:thekip/jade-html-loader",
     "lodash.groupby": "^4.3.0",
+    "lodash.sortby": "^4.4.2",
     "lost": "^6.7.2",
     "postcss": "^5.0.19",
     "postcss-browser-reporter": "^0.4.0",

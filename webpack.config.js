@@ -1,5 +1,6 @@
 'use strict'
 
+const sortBy = require('lodash.sortby')
 const groupBy = require('lodash.groupby')
 const day = require('./day-one.json')
 
@@ -27,7 +28,7 @@ module.exports = {
   },
   jadeLoader: {
     locals: {
-      day: day,
+      sortBy: sortBy,
       grouped: groupBy(day, (x) => x.html_url || x.repository_url)
     }
   },
