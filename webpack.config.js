@@ -1,6 +1,7 @@
 'use strict'
 
-// const day = require('./day-one.json')
+const groupBy = require('lodash.groupby')
+const day = require('./day-one.json')
 
 module.exports = {
   entry: [
@@ -26,7 +27,8 @@ module.exports = {
   },
   jadeLoader: {
     locals: {
-      day: require('./day-one.json')
+      day: day,
+      grouped: groupBy(day, (x) => x.html_url || x.repository_url)
     }
   },
   postcss: (webpack) => [
