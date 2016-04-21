@@ -1,31 +1,30 @@
 extends ./_layout.jade
 
 mixin groups(g)
-  -const keys = Object.keys(g).slice(1, 2)
-  each k in keys
-    div.main.tabs(data-toggle='tabslet666')
+  -const keys = Object.keys(g)//.slice(1, 2)
+  each k, i in keys
+    div.main.tabs
       ul
-        li: a(href='#tab-1') t1
-        li: a(href='#tab-2') t2
-      each a in g[k]
-        +proj(a)
+        each a, b in g[k]
+          li: a(href='#tab-' + b + '-' + i) ##{b + 1}
+      each a, b in g[k]
+        +proj(a, b, i)
 
-mixin proj(d)
-  div(id=d.forks_count === 7 ? 'tab-2' : 'tab-1')
+mixin proj(d, c, j)
+  div(id='tab-' + c + '-' + j)
     h3= d.name
-      small  / #{d.platform.toLowerCase()}
-      if d.rank
-        small  ##{d.rank}
+      small  / #{d.platform.toLowerCase().replace(/^x-/, '')}
 
     if d.normalized_licenses
-      p= d.normalized_licenses.join(', ')
+      p Licenses: #{d.normalized_licenses.join(', ')}
 
     if d.language && d.platform === 'x-GITHUB'
-      p= d.language
+      p Language: #{d.language}
 
-    p: a(href=d.html_url || d.repository_url) url1
-      if d.homepage && d.homepage !== (d.html_url || d.repository_url)
-        a(href=d.homepage) url2
+    p: a(href=d.html_url || d.repository_url)= d.html_url || d.repository_url
+
+    if d.homepage && d.homepage !== (d.html_url || d.repository_url)
+      p: a(href=d.homepage)= href=d.homepage
 
     if d.stargazers_count
       p #{d.stargazers_count} stargazers

@@ -19,8 +19,7 @@
   },
   "standard": {
     "ignore": [
-      "js/polyfill/",
-      "dist/"
+      "js/polyfill/"
     ]
   },
   "devDependencies": {
