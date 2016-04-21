@@ -1,8 +1,8 @@
 {
-  "name": "boy-lost-webpack",
+  "name": "dais",
   "description": "Exploring webpack and lost.",
   "license": "MIT",
-  "version": "4.0.1",
+  "version": "5.0.0",
   "repository": "millette/boy-lost-webpack",
   "author": {
     "name": "Robin Millette",
@@ -15,7 +15,7 @@
   "scripts": {
     "start": "standard && webpack-dev-server",
     "lint": "standard",
-    "make": "standard && webpack && mkdir -p dist/js/polyfill/ ; cp crossdomain.xml logo.png favicon.ico index.html bundle.js dist/ && cp js/polyfill/* dist/js/polyfill/"
+    "make": "standard && webpack && mkdir -p dist/js/polyfill/ ; cp crossdomain.xml day-one.json favicon.ico index.html bundle.js dist/ && cp js/polyfill/* dist/js/polyfill/"
   },
   "standard": {
     "ignore": [
@@ -27,7 +27,7 @@
     "css-loader": "^0.23.1",
     "file-loader": "^0.8.5",
     "jade": "^1.11.0",
-    "jade-html-loader": "0.0.3",
+    "jade-html-loader": "github:thekip/jade-html-loader",
     "lost": "^6.7.2",
     "postcss": "^5.0.19",
     "postcss-browser-reporter": "^0.4.0",
@@ -41,8 +41,5 @@
     "style-loader": "^0.13.1",
     "webpack": "^1.13.0",
     "webpack-dev-server": "^1.14.1"
-  },
-  "dependencies": {
-    "jade-html-loader": "github:thekip/jade-html-loader"
   }
 }
