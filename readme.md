@@ -22,9 +22,21 @@ avec mon module npm [librarian-api][] pour regrouper ces informations.
 Pour le moment, il ne s'agit que d'un seul snapshot dans le temps, mais
 le but est d'offrir une archive quotidienne. À suivre!
 
+# Remerciments
+J'utilise [Responsive-Tabs][] et [jQuery][] pour présenter les projets
+et [Lost Grid][] pour le *layout* en général.
+
+Le tout est assemblé par [webpack][], [PostCSS][] et [Jade][].
+
 # L'auteur
 ## Robin Millette
 <http://robin.millette.info/> <https://twitter.com/rollodeqc>
 
 [des étoiles à plus de 5500 projets sur GitHub]: https://github.com/stars/millette
 [librarian-api]: https://github.com/millette/librarian-api
+[Responsive-Tabs]: http://jellekralt.github.io/Responsive-Tabs/
+[jQuery]: http://jquery.com/
+[Lost Grid]: https://github.com/peterramsing/lost
+[webpack]: https://webpack.github.io/
+[PostCSS]: http://postcss.org/
+[Jade]: http://jade-lang.com/
