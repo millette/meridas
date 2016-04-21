@@ -1,3 +1,6 @@
+/* globals $ */
 'use strict'
 
-console.log('hello john!')
+$(() => {
+  $('.tabs').responsiveTabs()
+})

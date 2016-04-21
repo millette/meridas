@@ -1,28 +1,37 @@
 extends ./_layout.jade
 
+mixin groups(g)
+  -const keys = Object.keys(g).slice(1, 2)
+  each k in keys
+    div.main.tabs(data-toggle='tabslet666')
+      ul
+        li: a(href='#tab-1') t1
+        li: a(href='#tab-2') t2
+      each a in g[k]
+        +proj(a)
+
 mixin proj(d)
-  div.main(class=d.stargazers_count>500?'verywide':d.stargazers_count>50?'wide':'normal' class=d.platform.replace(/-/g, '').toLowerCase())
-    div
-      h3= d.name
-        small  / #{d.platform.toLowerCase()}
-        if d.rank
-          small  ##{d.rank}
+  div(id=d.forks_count === 7 ? 'tab-2' : 'tab-1')
+    h3= d.name
+      small  / #{d.platform.toLowerCase()}
+      if d.rank
+        small  ##{d.rank}
 
-      if d.normalized_licenses
-        p= d.normalized_licenses.join(', ')
+    if d.normalized_licenses
+      p= d.normalized_licenses.join(', ')
 
-      if d.language && d.platform === 'x-GITHUB'
-        p= d.language
+    if d.language && d.platform === 'x-GITHUB'
+      p= d.language
 
-      p: a(href=d.html_url || d.repository_url) url1
-        if d.homepage && d.homepage !== (d.html_url || d.repository_url)
-          a(href=d.homepage) url2
+    p: a(href=d.html_url || d.repository_url) url1
+      if d.homepage && d.homepage !== (d.html_url || d.repository_url)
+        a(href=d.homepage) url2
 
-      if d.stargazers_count
-        p #{d.stargazers_count} stargazers
+    if d.stargazers_count
+      p #{d.stargazers_count} stargazers
 
-      if d.forks_count
-        p #{d.forks_count} forks
+    if d.forks_count
+      p #{d.forks_count} forks
 
 block title
   title Hehaaamwaha
@@ -32,10 +41,9 @@ block content
   h2 Les projects:
 
   section
-    each d in day
-      +proj(d)
+    +groups(grouped)
 
   footer
     p Until à la prochaine, #{day.length} projets ça suffit pour aujourd'hui!
 
-    pre= JSON.stringify(grouped, null, ' ')
+    //pre= JSON.stringify(grouped, null, ' ')
