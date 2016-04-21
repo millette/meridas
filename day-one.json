@@ -1,0 +1,2022 @@
+[
+  {
+    "name": "generator-duxedo",
+    "id": 56214253,
+    "full_name": "127labs/generator-duxedo",
+    "html_url": "https://github.com/127labs/generator-duxedo",
+    "stargazers_count": 12,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 1
+  },
+  {
+    "name": "node-couchdb",
+    "homepage": "https://github.com/1999/node-couchdb",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/1999/node-couchdb",
+    "rank": 10,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "node-couchdb",
+    "id": 7500611,
+    "full_name": "1999/node-couchdb",
+    "html_url": "https://github.com/1999/node-couchdb",
+    "stargazers_count": 17,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 7
+  },
+  {
+    "name": "hypercouch",
+    "id": 55640930,
+    "full_name": "BigBlueHat/hypercouch",
+    "html_url": "https://github.com/BigBlueHat/hypercouch",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "cirru.org",
+    "id": 15398688,
+    "full_name": "Cirru/cirru.org",
+    "html_url": "https://github.com/Cirru/cirru.org",
+    "homepage": "http://cirru.org",
+    "stargazers_count": 14,
+    "language": "Cirru",
+    "platform": "x-GITHUB",
+    "forks_count": 1
+  },
+  {
+    "name": "MaterialJS",
+    "id": 54675720,
+    "full_name": "CosmicMind/MaterialJS",
+    "html_url": "https://github.com/CosmicMind/MaterialJS",
+    "homepage": "http://materialjs.io",
+    "stargazers_count": 14,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 1
+  },
+  {
+    "name": "cm-materialjs",
+    "homepage": "http://cosmicmind.io",
+    "language": "JavaScript",
+    "platform": "Bower",
+    "repository_url": "https://github.com/CosmicMind/MaterialJS",
+    "rank": 6,
+    "normalized_licenses": [
+      "BSD-3-Clause"
+    ]
+  },
+  {
+    "name": "cosmicmind-materialjs",
+    "homepage": "http://cosmicmind.io",
+    "language": "JavaScript",
+    "platform": "Bower",
+    "repository_url": "https://github.com/CosmicMind/MaterialJS",
+    "rank": 6,
+    "normalized_licenses": [
+      "BSD-3-Clause"
+    ]
+  },
+  {
+    "name": "cosmicmind-materialjs",
+    "homepage": "http://cosmicmind.io",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/CosmicMind/MaterialJS",
+    "rank": 8,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "materialjs",
+    "homepage": "http://cosmicmind.io",
+    "language": "JavaScript",
+    "platform": "Bower",
+    "repository_url": "https://github.com/CosmicMind/MaterialJS",
+    "rank": 6,
+    "normalized_licenses": [
+      "BSD-3-Clause"
+    ]
+  },
+  {
+    "name": "letsencrypt-cli",
+    "id": 48099031,
+    "full_name": "Daplie/letsencrypt-cli",
+    "html_url": "https://github.com/Daplie/letsencrypt-cli",
+    "stargazers_count": 31,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 3
+  },
+  {
+    "name": "letsencrypt-express",
+    "homepage": "https://github.com/Daplie/letsencrypt-express",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/Daplie/letsencrypt-express",
+    "rank": 12,
+    "normalized_licenses": [
+      "Apache-2.0"
+    ]
+  },
+  {
+    "name": "letsencrypt-express",
+    "id": 48022058,
+    "full_name": "Daplie/letsencrypt-express",
+    "html_url": "https://github.com/Daplie/letsencrypt-express",
+    "stargazers_count": 109,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 14
+  },
+  {
+    "name": "node-letsencrypt",
+    "id": 47822710,
+    "full_name": "Daplie/node-letsencrypt",
+    "html_url": "https://github.com/Daplie/node-letsencrypt",
+    "stargazers_count": 368,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 14
+  },
+  {
+    "name": "letsencrypt-cli",
+    "homepage": "https://github.com/Daplie/node-letsencrypt-cli",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/Daplie/node-letsencrypt-cli",
+    "rank": 9,
+    "normalized_licenses": [
+      "Apache-2.0"
+    ]
+  },
+  {
+    "name": "OpenNote",
+    "id": 13704831,
+    "full_name": "FoxUSA/OpenNote",
+    "html_url": "https://github.com/FoxUSA/OpenNote",
+    "homepage": "https://foxusa.github.io/OpenNote/OpenNote/",
+    "stargazers_count": 966,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 116
+  },
+  {
+    "name": "DOM99",
+    "id": 53816295,
+    "full_name": "GrosSacASac/DOM99",
+    "html_url": "https://github.com/GrosSacASac/DOM99",
+    "stargazers_count": 15,
+    "language": "JavaScript",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "dom99",
+    "language": "JavaScript",
+    "platform": "Bower",
+    "repository_url": "https://github.com/GrosSacASac/DOM99",
+    "rank": 4,
+    "normalized_licenses": []
+  },
+  {
+    "name": "dom99",
+    "homepage": "https://github.com/GrosSacASac/DOM99",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/GrosSacASac/DOM99",
+    "rank": 8,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "couchdb-force",
+    "homepage": "https://github.com/IndigoUnited/node-couchdb-force",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/IndigoUnited/node-couchdb-force",
+    "rank": 7,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "node-couchdb-force",
+    "id": 55265907,
+    "full_name": "IndigoUnited/node-couchdb-force",
+    "html_url": "https://github.com/IndigoUnited/node-couchdb-force",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "joinmarket",
+    "id": 27746301,
+    "full_name": "JoinMarket-Org/joinmarket",
+    "html_url": "https://github.com/JoinMarket-Org/joinmarket",
+    "stargazers_count": 166,
+    "language": "Python",
+    "platform": "x-GITHUB",
+    "forks_count": 49
+  },
+  {
+    "name": "Multiple.js",
+    "id": 55866256,
+    "full_name": "NeXTs/Multiple.js",
+    "html_url": "https://github.com/NeXTs/Multiple.js",
+    "homepage": "http://multiple.js.org",
+    "stargazers_count": 134,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 5
+  },
+  {
+    "name": "multiple.js",
+    "homepage": "http://multiple.js.org",
+    "platform": "Bower",
+    "repository_url": "https://github.com/NeXTs/Multiple.js",
+    "rank": 5,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "multiple.js",
+    "homepage": "https://github.com/NeXTs/Multiple.js",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/NeXTs/Multiple.js",
+    "rank": 8,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "OpenCollective",
+    "id": 50683765,
+    "full_name": "OpenCollective/OpenCollective",
+    "html_url": "https://github.com/OpenCollective/OpenCollective",
+    "stargazers_count": 15,
+    "platform": "x-GITHUB",
+    "forks_count": 1
+  },
+  {
+    "name": "sc5-styleguide-visualtest",
+    "homepage": "https://github.com/SC5/sc5-styleguide-visualtest",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/SC5/sc5-styleguide-visualtest",
+    "rank": 9,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "sc5-styleguide-visualtest",
+    "id": 42988498,
+    "full_name": "SC5/sc5-styleguide-visualtest",
+    "html_url": "https://github.com/SC5/sc5-styleguide-visualtest",
+    "stargazers_count": 9,
+    "language": "JavaScript",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "strider",
+    "homepage": "https://github.com/Strider-CD/strider#readme",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/Strider-CD/strider",
+    "rank": 12,
+    "normalized_licenses": [
+      "BSD-3-Clause"
+    ]
+  },
+  {
+    "name": "strider",
+    "id": 6267158,
+    "full_name": "Strider-CD/strider",
+    "html_url": "https://github.com/Strider-CD/strider",
+    "homepage": "http://stridercd.com",
+    "stargazers_count": 3257,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 318
+  },
+  {
+    "name": "webusb",
+    "id": 35305773,
+    "full_name": "WICG/webusb",
+    "html_url": "https://github.com/WICG/webusb",
+    "homepage": "https://wicg.github.io/webusb/",
+    "stargazers_count": 299,
+    "language": "HTML",
+    "platform": "x-GITHUB",
+    "forks_count": 38
+  },
+  {
+    "name": "scroll-watcher",
+    "id": 56605685,
+    "full_name": "WSJ/scroll-watcher",
+    "html_url": "https://github.com/WSJ/scroll-watcher",
+    "stargazers_count": 46,
+    "language": "HTML",
+    "platform": "x-GITHUB",
+    "forks_count": 1
+  },
+  {
+    "name": "redux-bootstrap",
+    "homepage": "https://github.com/remojansen/redux-bootstrap",
+    "language": "TypeScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/WolkSoftwareLtd/redux-bootstrap",
+    "rank": 4,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "bricklayer",
+    "homepage": "http://ademilter.github.io/bricklayer/",
+    "platform": "Bower",
+    "repository_url": "https://github.com/ademilter/bricklayer",
+    "rank": 4,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "bricklayer",
+    "id": 55812150,
+    "full_name": "ademilter/bricklayer",
+    "html_url": "https://github.com/ademilter/bricklayer",
+    "homepage": "http://ademilter.github.io/bricklayer/",
+    "stargazers_count": 1085,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 39
+  },
+  {
+    "name": "kewler",
+    "id": 56393327,
+    "full_name": "adriantoine/kewler",
+    "html_url": "https://github.com/adriantoine/kewler",
+    "stargazers_count": 52,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 1
+  },
+  {
+    "name": "blur-admin",
+    "id": 55763295,
+    "full_name": "akveo/blur-admin",
+    "html_url": "https://github.com/akveo/blur-admin",
+    "homepage": "http://akveo.com/blur-admin",
+    "stargazers_count": 2204,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 183
+  },
+  {
+    "name": "awesompd",
+    "id": 1053444,
+    "full_name": "alexander-yakushev/awesompd",
+    "html_url": "https://github.com/alexander-yakushev/awesompd",
+    "stargazers_count": 52,
+    "language": "Lua",
+    "platform": "x-GITHUB",
+    "forks_count": 23
+  },
+  {
+    "name": "algebrite",
+    "homepage": "https://github.com/antimatter15/Algebrite",
+    "language": "CoffeeScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/antimatter15/Algebrite",
+    "rank": 10,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "waterline-docs",
+    "id": 16329517,
+    "full_name": "balderdashy/waterline-docs",
+    "html_url": "https://github.com/balderdashy/waterline-docs",
+    "stargazers_count": 280,
+    "platform": "x-GITHUB",
+    "forks_count": 124
+  },
+  {
+    "name": "montreal",
+    "id": 54654800,
+    "full_name": "beerjs/montreal",
+    "html_url": "https://github.com/beerjs/montreal",
+    "stargazers_count": 8,
+    "platform": "x-GITHUB",
+    "forks_count": 1
+  },
+  {
+    "name": "TinyColor",
+    "id": 1973790,
+    "full_name": "bgrins/TinyColor",
+    "html_url": "https://github.com/bgrins/TinyColor",
+    "homepage": "http://bgrins.github.com/TinyColor/",
+    "stargazers_count": 1070,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 161
+  },
+  {
+    "name": "cljsjs/tinycolor",
+    "homepage": "http://bgrins.github.com/TinyColor/",
+    "language": "JavaScript",
+    "platform": "Clojars",
+    "repository_url": "https://github.com/bgrins/TinyColor",
+    "rank": 11,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "org.webjars.bower:tinycolor",
+    "homepage": "http://webjars.org",
+    "language": "JavaScript",
+    "platform": "Maven",
+    "repository_url": "https://github.com/bgrins/TinyColor",
+    "rank": 13,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "tinycolor",
+    "homepage": "http://bgrins.github.com/TinyColor/",
+    "language": "JavaScript",
+    "platform": "Bower",
+    "repository_url": "https://github.com/bgrins/TinyColor",
+    "rank": 11,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "tinycolor",
+    "homepage": "http://bgrins.github.io/TinyColor/",
+    "language": "JavaScript",
+    "platform": "Jam",
+    "repository_url": "https://github.com/bgrins/TinyColor",
+    "rank": 12,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "jade-env-html-loader",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/bline/jade-html-loader",
+    "rank": 8,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "jade-html-loader",
+    "homepage": "https://github.com/bline/jade-html-loader",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/bline/jade-html-loader",
+    "rank": 13,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "jade-html-loader",
+    "id": 14802556,
+    "full_name": "bline/jade-html-loader",
+    "html_url": "https://github.com/bline/jade-html-loader",
+    "stargazers_count": 22,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 19
+  },
+  {
+    "name": "jade-html-loader-temporal",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/bline/jade-html-loader",
+    "rank": 8,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "scrapers",
+    "id": 56540657,
+    "full_name": "cassidoo/scrapers",
+    "html_url": "https://github.com/cassidoo/scrapers",
+    "stargazers_count": 26,
+    "platform": "x-GITHUB",
+    "forks_count": 4
+  },
+  {
+    "name": "redux-boot",
+    "id": 53459771,
+    "full_name": "choko-org/redux-boot",
+    "html_url": "https://github.com/choko-org/redux-boot",
+    "stargazers_count": 16,
+    "language": "JavaScript",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "geany-themes",
+    "id": 1404561,
+    "full_name": "codebrainz/geany-themes",
+    "html_url": "https://github.com/codebrainz/geany-themes",
+    "stargazers_count": 331,
+    "language": "Python",
+    "platform": "x-GITHUB",
+    "forks_count": 86
+  },
+  {
+    "name": "cv30",
+    "id": 54424024,
+    "full_name": "datalyse/cv30",
+    "html_url": "https://github.com/datalyse/cv30",
+    "stargazers_count": 1,
+    "language": "HTML",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "davemail",
+    "id": 55307248,
+    "full_name": "davidapple/davemail",
+    "html_url": "https://github.com/davidapple/davemail",
+    "stargazers_count": 18,
+    "language": "HTML",
+    "platform": "x-GITHUB",
+    "forks_count": 2
+  },
+  {
+    "name": "Algebrite",
+    "id": 54584318,
+    "full_name": "davidedc/Algebrite",
+    "html_url": "https://github.com/davidedc/Algebrite",
+    "homepage": "http://algebrite.org",
+    "stargazers_count": 460,
+    "language": "CoffeeScript",
+    "platform": "x-GITHUB",
+    "forks_count": 16
+  },
+  {
+    "name": "rate-limit-promise",
+    "homepage": "https://github.com/dbkaplun/rate-limit-promise",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/dbkaplun/rate-limit-promise",
+    "rank": 7,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "rate-limit-promise",
+    "id": 54078514,
+    "full_name": "dbkaplun/rate-limit-promise",
+    "html_url": "https://github.com/dbkaplun/rate-limit-promise",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "filer.js",
+    "language": "JavaScript",
+    "platform": "Bower",
+    "repository_url": "https://github.com/ebidel/filer.js",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "filer.js",
+    "id": 1937059,
+    "full_name": "ebidel/filer.js",
+    "html_url": "https://github.com/ebidel/filer.js",
+    "stargazers_count": 1314,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 134
+  },
+  {
+    "name": "reuse-promise",
+    "homepage": "https://github.com/elado/reuse-promise",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/elado/reuse-promise",
+    "rank": 8,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "reuse-promise",
+    "id": 56539624,
+    "full_name": "elado/reuse-promise",
+    "html_url": "https://github.com/elado/reuse-promise",
+    "stargazers_count": 10,
+    "language": "JavaScript",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "enb",
+    "homepage": "https://github.com/enb-make/enb",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/enb-make/enb",
+    "rank": 17,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "enb",
+    "id": 10054361,
+    "full_name": "enb/enb",
+    "html_url": "https://github.com/enb/enb",
+    "homepage": "http://enb-make.info",
+    "stargazers_count": 114,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 51
+  },
+  {
+    "name": "Arduino",
+    "id": 32969220,
+    "full_name": "esp8266/Arduino",
+    "html_url": "https://github.com/esp8266/Arduino",
+    "stargazers_count": 2554,
+    "language": "C++",
+    "platform": "x-GITHUB",
+    "forks_count": 1075
+  },
+  {
+    "name": "the_silver_searcher",
+    "id": 2810455,
+    "full_name": "ggreer/the_silver_searcher",
+    "html_url": "https://github.com/ggreer/the_silver_searcher",
+    "homepage": "http://geoff.greer.fm/ag/",
+    "stargazers_count": 8575,
+    "language": "C",
+    "platform": "x-GITHUB",
+    "forks_count": 622
+  },
+  {
+    "name": "thesilversearcher",
+    "homepage": "https://github.com/ggreer/the_silver_searcher",
+    "language": "C",
+    "platform": "Homebrew",
+    "repository_url": "https://github.com/ggreer/the_silver_searcher",
+    "rank": 9,
+    "normalized_licenses": [
+      "Apache-2.0"
+    ]
+  },
+  {
+    "name": "agera",
+    "id": 48175620,
+    "full_name": "google/agera",
+    "html_url": "https://github.com/google/agera",
+    "stargazers_count": 2567,
+    "language": "Java",
+    "platform": "x-GITHUB",
+    "forks_count": 135
+  },
+  {
+    "name": "github.com/grafana/grafana",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "grafana",
+    "id": 15111821,
+    "full_name": "grafana/grafana",
+    "html_url": "https://github.com/grafana/grafana",
+    "homepage": "http://grafana.org",
+    "stargazers_count": 9395,
+    "language": "Go",
+    "platform": "x-GITHUB",
+    "forks_count": 1375
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/api",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/api",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/api/avatar",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/api/avatar",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/api/cloudwatch",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/api/cloudwatch",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/api/dtos",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/api/dtos",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/api/pluginproxy",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/api/pluginproxy",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/api/static",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/api/static",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/bus",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/bus",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/cmd",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/cmd",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/components/apikeygen",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/components/apikeygen",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/components/renderer",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/components/renderer",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/events",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/events",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/log",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/log",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/login",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/login",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/metrics",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/metrics",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/middleware",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/middleware",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/models",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/models",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/plugins",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/plugins",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/services/eventpublisher",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/services/eventpublisher",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/services/notifications",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/services/notifications",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/services/search",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/services/search",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/services/sqlstore",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/services/sqlstore",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/services/sqlstore/migrations",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/services/sqlstore/migrations",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/services/sqlstore/migrator",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/services/sqlstore/migrator",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/services/sqlstore/sqlutil",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/services/sqlstore/sqlutil",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/setting",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/setting",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/social",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/social",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "github.com/grafana/grafana/pkg/util",
+    "homepage": "https://github.com/grafana/grafana",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/grafana/grafana/pkg/util",
+    "rank": 10,
+    "normalized_licenses": [
+      "Other"
+    ]
+  },
+  {
+    "name": "noteme",
+    "id": 55067097,
+    "full_name": "iamtekeste/noteme",
+    "html_url": "https://github.com/iamtekeste/noteme",
+    "stargazers_count": 7,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 1
+  },
+  {
+    "name": "Creative-Commons-Markdown",
+    "id": 15777283,
+    "full_name": "idleberg/Creative-Commons-Markdown",
+    "html_url": "https://github.com/idleberg/Creative-Commons-Markdown",
+    "stargazers_count": 80,
+    "platform": "x-GITHUB",
+    "forks_count": 86
+  },
+  {
+    "name": "es-search",
+    "id": 55086984,
+    "full_name": "jdonaghue/es-search",
+    "html_url": "https://github.com/jdonaghue/es-search",
+    "stargazers_count": 86,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 2
+  },
+  {
+    "name": "binctr",
+    "id": 56297507,
+    "full_name": "jfrazelle/binctr",
+    "html_url": "https://github.com/jfrazelle/binctr",
+    "stargazers_count": 296,
+    "language": "Go",
+    "platform": "x-GITHUB",
+    "forks_count": 7
+  },
+  {
+    "name": "cv30-jvtrudel",
+    "id": 53689055,
+    "full_name": "jvtrudel/cv30-jvtrudel",
+    "html_url": "https://github.com/jvtrudel/cv30-jvtrudel",
+    "homepage": "cv30.jvtrudel.com",
+    "stargazers_count": 1,
+    "language": "Shell",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "git-standup",
+    "id": 55859203,
+    "full_name": "kamranahmedse/git-standup",
+    "html_url": "https://github.com/kamranahmedse/git-standup",
+    "stargazers_count": 1446,
+    "language": "Shell",
+    "platform": "x-GITHUB",
+    "forks_count": 43
+  },
+  {
+    "name": "spdx-satisfies",
+    "homepage": "https://github.com/kemitchell/spdx-satisfies.js#readme",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/kemitchell/spdx-satisfies.js",
+    "rank": 9,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "spdx-satisfies.js",
+    "id": 39311915,
+    "full_name": "kemitchell/spdx-satisfies.js",
+    "html_url": "https://github.com/kemitchell/spdx-satisfies.js",
+    "homepage": "https://npmjs.com/packages/spdx-satisfies",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 1
+  },
+  {
+    "name": "jakecache",
+    "homepage": "https://github.com/kenchris/jakecache",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/kenchris/jakecache",
+    "rank": 11,
+    "normalized_licenses": [
+      "OpenSSL"
+    ]
+  },
+  {
+    "name": "jakecache",
+    "id": 55348359,
+    "full_name": "kenchris/jakecache",
+    "html_url": "https://github.com/kenchris/jakecache",
+    "stargazers_count": 58,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 5
+  },
+  {
+    "name": "wavy",
+    "homepage": "https://github.com/kolodny/wavy",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/kolodny/wavy",
+    "rank": 10,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "wavy",
+    "id": 55653705,
+    "full_name": "kolodny/wavy",
+    "html_url": "https://github.com/kolodny/wavy",
+    "stargazers_count": 106,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 2
+  },
+  {
+    "name": "wavy2",
+    "homepage": "https://github.com/kolodny/wavy",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/kolodny/wavy",
+    "rank": 9,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "fmplaylist",
+    "id": 9618799,
+    "full_name": "kudlaj/fmplaylist",
+    "html_url": "https://github.com/kudlaj/fmplaylist",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 1
+  },
+  {
+    "name": "jamendo-contest",
+    "id": 10055742,
+    "full_name": "kudlaj/jamendo-contest",
+    "html_url": "https://github.com/kudlaj/jamendo-contest",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "liberapay.com",
+    "id": 36075352,
+    "full_name": "liberapay/liberapay.com",
+    "html_url": "https://github.com/liberapay/liberapay.com",
+    "homepage": "https://liberapay.com/",
+    "stargazers_count": 33,
+    "language": "Python",
+    "platform": "x-GITHUB",
+    "forks_count": 6
+  },
+  {
+    "name": "firehose",
+    "id": 33314400,
+    "full_name": "librariesio/firehose",
+    "html_url": "https://github.com/librariesio/firehose",
+    "homepage": "http://librariesio.github.io/firehose-stream/",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 2
+  },
+  {
+    "name": "github-firehose",
+    "id": 44767106,
+    "full_name": "librariesio/github-firehose",
+    "html_url": "https://github.com/librariesio/github-firehose",
+    "homepage": "https://libraries.io/github/librariesio/github-firehose",
+    "stargazers_count": 15,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 3
+  },
+  {
+    "name": "libhub",
+    "homepage": "https://github.com/librariesio/libhub",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/librariesio/libhub",
+    "rank": 9,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "libhub",
+    "id": 46987900,
+    "full_name": "librariesio/libhub",
+    "html_url": "https://github.com/librariesio/libhub",
+    "homepage": "https://libraries.io/github/librariesio/libhub",
+    "stargazers_count": 12,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 1
+  },
+  {
+    "name": "librarian",
+    "id": 31686174,
+    "full_name": "librariesio/librarian",
+    "html_url": "https://github.com/librariesio/librarian",
+    "homepage": "https://libraries.io/",
+    "stargazers_count": 15,
+    "language": "JavaScript",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "librarian-parsers",
+    "homepage": "https://github.com/librariesio/librarian-parsers",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/librariesio/librarian-parsers",
+    "rank": 8,
+    "normalized_licenses": [
+      "AGPL-3.0"
+    ]
+  },
+  {
+    "name": "librarian-parsers",
+    "id": 54275522,
+    "full_name": "librariesio/librarian-parsers",
+    "html_url": "https://github.com/librariesio/librarian-parsers",
+    "homepage": "https://libraries.io/npm/librarian-parsers",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "libraries.io",
+    "id": 24641222,
+    "full_name": "librariesio/libraries.io",
+    "html_url": "https://github.com/librariesio/libraries.io",
+    "homepage": "https://libraries.io",
+    "stargazers_count": 83,
+    "language": "Ruby",
+    "platform": "x-GITHUB",
+    "forks_count": 8
+  },
+  {
+    "name": "package-managers",
+    "id": 48164038,
+    "full_name": "librariesio/package-managers",
+    "html_url": "https://github.com/librariesio/package-managers",
+    "homepage": "https://libraries.io/",
+    "stargazers_count": 16,
+    "platform": "x-GITHUB",
+    "forks_count": 3
+  },
+  {
+    "name": "libremap-api",
+    "id": 13538125,
+    "full_name": "libremap/libremap-api",
+    "html_url": "https://github.com/libremap/libremap-api",
+    "homepage": "http://libremap.net/",
+    "stargazers_count": 8,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 6
+  },
+  {
+    "name": "libremap-webui",
+    "id": 13537983,
+    "full_name": "libremap/libremap-webui",
+    "html_url": "https://github.com/libremap/libremap-webui",
+    "homepage": "http://libremap.net/",
+    "stargazers_count": 8,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 7
+  },
+  {
+    "name": "react-redux-links",
+    "id": 50151075,
+    "full_name": "markerikson/react-redux-links",
+    "html_url": "https://github.com/markerikson/react-redux-links",
+    "stargazers_count": 1837,
+    "platform": "x-GITHUB",
+    "forks_count": 81
+  },
+  {
+    "name": "denodeify",
+    "language": "JavaScript",
+    "platform": "Bower",
+    "repository_url": "https://github.com/matthew-andrews/denodeify",
+    "rank": 6,
+    "normalized_licenses": []
+  },
+  {
+    "name": "denodeify",
+    "homepage": "https://github.com/matthew-andrews/denodeify",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/matthew-andrews/denodeify",
+    "rank": 16,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "denodeify",
+    "id": 23834683,
+    "full_name": "matthew-andrews/denodeify",
+    "html_url": "https://github.com/matthew-andrews/denodeify",
+    "stargazers_count": 153,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 6
+  },
+  {
+    "name": "hal-browser",
+    "id": 4158450,
+    "full_name": "mikekelly/hal-browser",
+    "html_url": "https://github.com/mikekelly/hal-browser",
+    "stargazers_count": 472,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 104
+  },
+  {
+    "name": "neos-protobrew-distribution",
+    "id": 26146548,
+    "full_name": "million12/neos-protobrew-distribution",
+    "html_url": "https://github.com/million12/neos-protobrew-distribution",
+    "homepage": "http://typostrap.io",
+    "stargazers_count": 11,
+    "language": "PHP",
+    "platform": "x-GITHUB",
+    "forks_count": 2
+  },
+  {
+    "name": "web-audio-engine",
+    "homepage": "https://github.com/mohayonao/web-audio-engine/",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/mohayonao/web-audio-engine",
+    "rank": 8,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "web-audio-engine",
+    "id": 54969023,
+    "full_name": "mohayonao/web-audio-engine",
+    "html_url": "https://github.com/mohayonao/web-audio-engine",
+    "stargazers_count": 39,
+    "language": "JavaScript",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "sidekiq.js",
+    "id": 54502913,
+    "full_name": "mperham/sidekiq.js",
+    "html_url": "https://github.com/mperham/sidekiq.js",
+    "stargazers_count": 114,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 7
+  },
+  {
+    "name": "email-existence",
+    "homepage": "https://github.com/nmanousos/email-existence",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/nmanousos/email-existence",
+    "rank": 9,
+    "normalized_licenses": []
+  },
+  {
+    "name": "email-existence",
+    "id": 3665149,
+    "full_name": "nmanousos/email-existence",
+    "html_url": "https://github.com/nmanousos/email-existence",
+    "stargazers_count": 44,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 25
+  },
+  {
+    "name": "cm-materialjs",
+    "homepage": "https://github.com/npm/security-holder",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/npm/security-holder",
+    "rank": 8,
+    "normalized_licenses": [
+      "ISC"
+    ]
+  },
+  {
+    "name": "materialjs",
+    "homepage": "https://github.com/npm/security-holder",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/npm/security-holder",
+    "rank": 8,
+    "normalized_licenses": [
+      "ISC"
+    ]
+  },
+  {
+    "name": "couchtransform",
+    "homepage": "https://github.com/ntsang168/couchtransform",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/ntsang168/couchtransform",
+    "rank": 7,
+    "normalized_licenses": [
+      "Apache-2.0"
+    ]
+  },
+  {
+    "name": "couchtransform",
+    "id": 53425263,
+    "full_name": "ntsang168/couchtransform",
+    "html_url": "https://github.com/ntsang168/couchtransform",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "annotator-store",
+    "id": 1397272,
+    "full_name": "openannotation/annotator-store",
+    "html_url": "https://github.com/openannotation/annotator-store",
+    "homepage": "http://annotateit.org/",
+    "stargazers_count": 130,
+    "language": "Python",
+    "platform": "x-GITHUB",
+    "forks_count": 56
+  },
+  {
+    "name": "fiscal-data-package",
+    "id": 19077889,
+    "full_name": "openspending/fiscal-data-package",
+    "html_url": "https://github.com/openspending/fiscal-data-package",
+    "homepage": "http://fiscal.dataprotocols.org/",
+    "stargazers_count": 21,
+    "language": "HTML",
+    "platform": "x-GITHUB",
+    "forks_count": 5
+  },
+  {
+    "name": "ddocs",
+    "id": 32396130,
+    "full_name": "osher/ddocs",
+    "html_url": "https://github.com/osher/ddocs",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "create-github-repo",
+    "id": 55735308,
+    "full_name": "oskarcieslik/create-github-repo",
+    "html_url": "https://github.com/oskarcieslik/create-github-repo",
+    "stargazers_count": 47,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 3
+  },
+  {
+    "name": "frzr-dom",
+    "id": 55772742,
+    "full_name": "pakastin/frzr-dom",
+    "html_url": "https://github.com/pakastin/frzr-dom",
+    "homepage": "https://frzr.js.org",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "node-opencv",
+    "id": 3180884,
+    "full_name": "peterbraden/node-opencv",
+    "html_url": "https://github.com/peterbraden/node-opencv",
+    "homepage": "http://peterbraden.github.com/node-opencv/",
+    "stargazers_count": 1812,
+    "language": "C++",
+    "platform": "x-GITHUB",
+    "forks_count": 366
+  },
+  {
+    "name": "opencv",
+    "homepage": "https://github.com/peterbraden/node-opencv",
+    "language": "C++",
+    "platform": "NPM",
+    "repository_url": "https://github.com/peterbraden/node-opencv",
+    "rank": 16,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "opencv-atom-shell",
+    "homepage": "https://github.com/peterbraden/node-opencv",
+    "language": "C++",
+    "platform": "NPM",
+    "repository_url": "https://github.com/peterbraden/node-opencv",
+    "rank": 9,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "opencvtest",
+    "homepage": "https://github.com/peterbraden/node-opencv#readme",
+    "language": "C++",
+    "platform": "NPM",
+    "repository_url": "https://github.com/peterbraden/node-opencv",
+    "rank": 12,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "Positron",
+    "id": 51306854,
+    "full_name": "quorrajs/Positron",
+    "html_url": "https://github.com/quorrajs/Positron",
+    "homepage": "https://quorrajs.org/",
+    "stargazers_count": 4,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 1
+  },
+  {
+    "name": "redux-bootstrap",
+    "id": 56161948,
+    "full_name": "remojansen/redux-bootstrap",
+    "html_url": "https://github.com/remojansen/redux-bootstrap",
+    "stargazers_count": 46,
+    "language": "TypeScript",
+    "platform": "x-GITHUB",
+    "forks_count": 4
+  },
+  {
+    "name": "etcher",
+    "id": 45055693,
+    "full_name": "resin-io/etcher",
+    "html_url": "https://github.com/resin-io/etcher",
+    "homepage": "http://etcher.io",
+    "stargazers_count": 266,
+    "language": "CSS",
+    "platform": "x-GITHUB",
+    "forks_count": 13
+  },
+  {
+    "name": "roc",
+    "id": 46357398,
+    "full_name": "rocjs/roc",
+    "html_url": "https://github.com/rocjs/roc",
+    "homepage": "http://www.getroc.org",
+    "stargazers_count": 190,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 4
+  },
+  {
+    "name": "find",
+    "id": 44634390,
+    "full_name": "schollz/find",
+    "html_url": "https://github.com/schollz/find",
+    "homepage": "https://ml.internalpositioning.com/",
+    "stargazers_count": 2160,
+    "language": "Go",
+    "platform": "x-GITHUB",
+    "forks_count": 88
+  },
+  {
+    "name": "countrystatesjs",
+    "homepage": "https://github.com/scott-wyatt/countrystatesjs",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/scott-wyatt/countrystatesjs",
+    "rank": 6,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "countrystatesjs",
+    "id": 54806251,
+    "full_name": "scott-wyatt/countrystatesjs",
+    "html_url": "https://github.com/scott-wyatt/countrystatesjs",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "boilerplate",
+    "id": 50049889,
+    "full_name": "shastajs/boilerplate",
+    "html_url": "https://github.com/shastajs/boilerplate",
+    "stargazers_count": 54,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 3
+  },
+  {
+    "name": "shasta",
+    "homepage": "https://github.com/shastajs/shasta",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/shastajs/shasta",
+    "rank": 8,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "shasta",
+    "id": 50049240,
+    "full_name": "shastajs/shasta",
+    "html_url": "https://github.com/shastajs/shasta",
+    "stargazers_count": 482,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 8
+  },
+  {
+    "name": "tahoe",
+    "id": 50049372,
+    "full_name": "shastajs/tahoe",
+    "html_url": "https://github.com/shastajs/tahoe",
+    "stargazers_count": 44,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 3
+  },
+  {
+    "name": "ccapture.js",
+    "platform": "Bower",
+    "repository_url": "https://github.com/spite/ccapture.js",
+    "rank": 7,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "ccapture.js",
+    "homepage": "https://github.com/spite/ccapture.js",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/spite/ccapture.js",
+    "rank": 11,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "ccapture.js",
+    "id": 5657854,
+    "full_name": "spite/ccapture.js",
+    "html_url": "https://github.com/spite/ccapture.js",
+    "stargazers_count": 418,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 24
+  },
+  {
+    "name": "rrtr",
+    "homepage": "https://github.com/taion/rrtr",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/taion/rrtr",
+    "rank": 14,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "rrtr",
+    "id": 55992606,
+    "full_name": "taion/rrtr",
+    "html_url": "https://github.com/taion/rrtr",
+    "stargazers_count": 761,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 14
+  },
+  {
+    "name": "playground",
+    "id": 55434242,
+    "full_name": "tensorflow/playground",
+    "html_url": "https://github.com/tensorflow/playground",
+    "homepage": "http://playground.tensorflow.org",
+    "stargazers_count": 2351,
+    "language": "TypeScript",
+    "platform": "x-GITHUB",
+    "forks_count": 217
+  },
+  {
+    "name": "jamendo-contest",
+    "id": 10065934,
+    "full_name": "thomasrynne/jamendo-contest",
+    "html_url": "https://github.com/thomasrynne/jamendo-contest",
+    "stargazers_count": 2,
+    "language": "Python",
+    "platform": "x-GITHUB"
+  },
+  {
+    "name": "cryptico-js",
+    "homepage": "https://github.com/tracker1/cryptico-js",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/tracker1/cryptico-js",
+    "rank": 9,
+    "normalized_licenses": [
+      "ISC"
+    ]
+  },
+  {
+    "name": "cryptico-js",
+    "id": 22485813,
+    "full_name": "tracker1/cryptico-js",
+    "html_url": "https://github.com/tracker1/cryptico-js",
+    "stargazers_count": 10,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 2
+  },
+  {
+    "name": "travis",
+    "homepage": "https://github.com/travis-ci/travis.rb",
+    "language": "Ruby",
+    "platform": "Rubygems",
+    "repository_url": "https://github.com/travis-ci/travis.rb",
+    "rank": 20,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "travis.rb",
+    "id": 7512078,
+    "full_name": "travis-ci/travis.rb",
+    "html_url": "https://github.com/travis-ci/travis.rb",
+    "stargazers_count": 522,
+    "language": "Ruby",
+    "platform": "x-GITHUB",
+    "forks_count": 133
+  },
+  {
+    "name": "WhatWeb",
+    "id": 950915,
+    "full_name": "urbanadventurer/WhatWeb",
+    "html_url": "https://github.com/urbanadventurer/WhatWeb",
+    "homepage": "http://www.morningstarsecurity.com/research/whatweb",
+    "stargazers_count": 524,
+    "language": "Ruby",
+    "platform": "x-GITHUB",
+    "forks_count": 175
+  },
+  {
+    "name": "css-refresher-notes",
+    "id": 39223502,
+    "full_name": "vasanthk/css-refresher-notes",
+    "html_url": "https://github.com/vasanthk/css-refresher-notes",
+    "stargazers_count": 948,
+    "platform": "x-GITHUB",
+    "forks_count": 102
+  },
+  {
+    "name": "roc-config",
+    "homepage": "https://github.com/vgno/roc-config#readme",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/vgno/roc-config",
+    "rank": 5,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "jamendo-from-twitter",
+    "id": 9594036,
+    "full_name": "vincent/jamendo-from-twitter",
+    "html_url": "https://github.com/vincent/jamendo-from-twitter",
+    "stargazers_count": 3,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 1
+  },
+  {
+    "name": "jamendo",
+    "homepage": "https://github.com/vincent/node-jamendo",
+    "language": "HTML",
+    "platform": "NPM",
+    "repository_url": "https://github.com/vincent/node-jamendo",
+    "rank": 7,
+    "normalized_licenses": [
+      "BSD-3-Clause"
+    ]
+  },
+  {
+    "name": "node-jamendo",
+    "id": 9622169,
+    "full_name": "vincent/node-jamendo",
+    "html_url": "https://github.com/vincent/node-jamendo",
+    "stargazers_count": 8,
+    "language": "HTML",
+    "platform": "x-GITHUB",
+    "forks_count": 2
+  },
+  {
+    "name": "nuklear",
+    "id": 32866454,
+    "full_name": "vurtun/nuklear",
+    "html_url": "https://github.com/vurtun/nuklear",
+    "stargazers_count": 3346,
+    "language": "C",
+    "platform": "x-GITHUB",
+    "forks_count": 170
+  },
+  {
+    "name": "waltz",
+    "id": 12117511,
+    "full_name": "waltzio/waltz",
+    "html_url": "https://github.com/waltzio/waltz",
+    "homepage": "getwaltz.com",
+    "stargazers_count": 172,
+    "language": "CSS",
+    "platform": "x-GITHUB",
+    "forks_count": 43
+  },
+  {
+    "name": "emoji-cli",
+    "homepage": "https://github.com/watilde/emoji-cli",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/watilde/emoji-cli",
+    "rank": 8,
+    "normalized_licenses": [
+      "MIT"
+    ]
+  },
+  {
+    "name": "emoji-cli",
+    "id": 55588148,
+    "full_name": "watilde/emoji-cli",
+    "html_url": "https://github.com/watilde/emoji-cli",
+    "homepage": "https://www.npmjs.com/package/emoji-cli",
+    "stargazers_count": 40,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 1
+  },
+  {
+    "name": "revtree",
+    "homepage": "https://github.com/willholley/revtree",
+    "language": "JavaScript",
+    "platform": "NPM",
+    "repository_url": "https://github.com/willholley/revtree",
+    "rank": 8,
+    "normalized_licenses": [
+      "Apache-2.0"
+    ]
+  },
+  {
+    "name": "revtree",
+    "id": 56048376,
+    "full_name": "willholley/revtree",
+    "html_url": "https://github.com/willholley/revtree",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "platform": "x-GITHUB",
+    "forks_count": 1
+  },
+  {
+    "name": "doorman",
+    "id": 51149151,
+    "full_name": "youtube/doorman",
+    "html_url": "https://github.com/youtube/doorman",
+    "stargazers_count": 647,
+    "language": "Go",
+    "platform": "x-GITHUB",
+    "forks_count": 19
+  },
+  {
+    "name": "github.com/youtube/doorman/go/client/doorman",
+    "homepage": "https://github.com/youtube/doorman",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/youtube/doorman/go/client/doorman",
+    "rank": 5,
+    "normalized_licenses": [
+      "Apache-2.0"
+    ]
+  },
+  {
+    "name": "github.com/youtube/doorman/go/client/recipe",
+    "homepage": "https://github.com/youtube/doorman",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/youtube/doorman/go/client/recipe",
+    "rank": 5,
+    "normalized_licenses": [
+      "Apache-2.0"
+    ]
+  },
+  {
+    "name": "github.com/youtube/doorman/go/connection",
+    "homepage": "https://github.com/youtube/doorman",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/youtube/doorman/go/connection",
+    "rank": 5,
+    "normalized_licenses": [
+      "Apache-2.0"
+    ]
+  },
+  {
+    "name": "github.com/youtube/doorman/go/ratelimiter",
+    "homepage": "https://github.com/youtube/doorman",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/youtube/doorman/go/ratelimiter",
+    "rank": 5,
+    "normalized_licenses": [
+      "Apache-2.0"
+    ]
+  },
+  {
+    "name": "github.com/youtube/doorman/go/server/doorman",
+    "homepage": "https://github.com/youtube/doorman",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/youtube/doorman/go/server/doorman",
+    "rank": 5,
+    "normalized_licenses": [
+      "Apache-2.0"
+    ]
+  },
+  {
+    "name": "github.com/youtube/doorman/go/server/election",
+    "homepage": "https://github.com/youtube/doorman",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/youtube/doorman/go/server/election",
+    "rank": 5,
+    "normalized_licenses": [
+      "Apache-2.0"
+    ]
+  },
+  {
+    "name": "github.com/youtube/doorman/go/status",
+    "homepage": "https://github.com/youtube/doorman",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/youtube/doorman/go/status",
+    "rank": 5,
+    "normalized_licenses": [
+      "Apache-2.0"
+    ]
+  },
+  {
+    "name": "github.com/youtube/doorman/go/timeutil",
+    "homepage": "https://github.com/youtube/doorman",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/youtube/doorman/go/timeutil",
+    "rank": 5,
+    "normalized_licenses": [
+      "Apache-2.0"
+    ]
+  },
+  {
+    "name": "github.com/youtube/doorman/proto/doorman",
+    "homepage": "https://github.com/youtube/doorman",
+    "language": "Go",
+    "platform": "Go",
+    "repository_url": "https://github.com/youtube/doorman/proto/doorman",
+    "rank": 5,
+    "normalized_licenses": [
+      "Apache-2.0"
+    ]
+  },
+  {
+    "name": "micro",
+    "id": 53632140,
+    "full_name": "zyedidia/micro",
+    "html_url": "https://github.com/zyedidia/micro",
+    "stargazers_count": 1314,
+    "language": "Go",
+    "platform": "x-GITHUB",
+    "forks_count": 26
+  }
+]

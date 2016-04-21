@@ -1,16 +1,42 @@
 extends ./_layout.jade
 
+mixin proj(d)
+  div.main
+    div
+      h3= d.name
+        small  / #{d.platform.toLowerCase()}
+        if d.rank
+          small  ##{d.rank}
+
+      if d.normalized_licenses
+        p= d.normalized_licenses.join(', ')
+
+      if d.language
+        p= d.language
+
+      p= d.html_url || d.repository_url
+      if d.homepage !== (d.html_url || d.repository_url)
+        p= d.homepage
+
+      if d.stargazers_count
+        p #{d.stargazers_count} stargazers
+
+      if d.forks_count
+        p #{d.forks_count} forks
+
+
+
 block title
   title Hehaaamwaha
 
 block content
-  section#highlights
-    div
-      p Flagadsad
-    div
-      p One uptown for a times.
-    div
-      p One uptown for a times.
+  h1 Hop
+  h2 Les projects:
+
+  section
+    each d in day
+      +proj(d)
 
   footer
+    p= day.length
     p Until à la prochaine :-)

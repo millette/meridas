@@ -1,9 +1,11 @@
 'use strict'
 
+// const day = require('./day-one.json')
+
 module.exports = {
   entry: [
     './entry.js',
-    'file?name=index.html!jade-html!./index.jade'
+    'file?name=index.html!jade-html!./index.jade?day=john'
   ],
   output: {
     path: __dirname,
@@ -21,6 +23,11 @@ module.exports = {
         loader: 'style-loader!css-loader!postcss-loader'
       }
     ]
+  },
+  jadeLoader: {
+    locals: {
+      day: require('./day-one.json')
+    }
   },
   postcss: (webpack) => [
     require('postcss-import')({ addDependencyTo: webpack }),
