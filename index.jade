@@ -1,7 +1,7 @@
 extends ./_layout.jade
 
 mixin proj(d)
-  div.main
+  div.main(class=d.stargazers_count>500?'verywide':d.stargazers_count>50?'wide':'normal' class=d.platform.replace(/-/g, '').toLowerCase())
     div
       h3= d.name
         small  / #{d.platform.toLowerCase()}
@@ -11,7 +11,7 @@ mixin proj(d)
       if d.normalized_licenses
         p= d.normalized_licenses.join(', ')
 
-      if d.language
+      if d.language && d.platform === 'x-GITHUB'
         p= d.language
 
       p= d.html_url || d.repository_url
@@ -38,5 +38,4 @@ block content
       +proj(d)
 
   footer
-    p= day.length
-    p Until à la prochaine :-)
+    p Until à la prochaine, #{day.length} projets ça suffit pour aujourd'hui!
