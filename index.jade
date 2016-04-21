@@ -14,17 +14,15 @@ mixin proj(d)
       if d.language && d.platform === 'x-GITHUB'
         p= d.language
 
-      p= d.html_url || d.repository_url
-      if d.homepage !== (d.html_url || d.repository_url)
-        p= d.homepage
+      p: a(href=d.html_url || d.repository_url) url1
+        if d.homepage && d.homepage !== (d.html_url || d.repository_url)
+          a(href=d.homepage) url2
 
       if d.stargazers_count
         p #{d.stargazers_count} stargazers
 
       if d.forks_count
         p #{d.forks_count} forks
-
-
 
 block title
   title Hehaaamwaha

@@ -1,5 +1,7 @@
 @import 'reset/reeeset.min.css';
 
+@custom-media --medium-viewport (max-width: 70em);
+
 body {
   width: 90%;
   margin: 1em auto;
@@ -63,11 +65,15 @@ section {
   lost-utility: clearfix;
 
   & div.main {
-    lost-waffle: 1/4 4;
+    lost-waffle: 1/4;
     & div {
       padding: 0.5em;
       margin: 0.5em;
       background: white;
+
+      & a {
+        margin-right: 1em;
+      }
 
       & h3 {
         margin: 0;
@@ -77,6 +83,11 @@ section {
       & p {
         margin: 0;
       }
+    }
+  }
+  @media (--medium-viewport) {
+    & div.main {
+      lost-waffle: 1/2;
     }
   }
 }
