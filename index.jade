@@ -1,19 +1,8 @@
 extends ./_layout.jade
 
-mixin groups(g)
-  -const keys = sortBy(Object.keys(g), (x) => g[x].length).reverse()
-  each k, i in keys
-    div.main.tabs
-      ul
-        each a, b in g[k]
-          li: a(href='#tab-' + b + '-' + i) ##{b + 1}
-      each a, b in g[k]
-        +proj(a, b, i)
-
 mixin proj(d, c, j)
   div(id='tab-' + c + '-' + j)
     h3= d.name
-      small  / #{d.platform.toLowerCase().replace(/^x-/, '')}
 
     if d.normalized_licenses
       p Licenses: #{d.normalized_licenses.join(', ')}
@@ -31,6 +20,16 @@ mixin proj(d, c, j)
 
     if d.forks_count
       p #{d.forks_count} forks
+
+mixin groups(g)
+  -const keys = sortBy(Object.keys(g), (x) => g[x].length).reverse()
+  each k, i in keys
+    div.main.tabs
+      ul
+        each a, b in g[k]
+          li: a(href='#tab-' + b + '-' + i) #{a.platform.toLowerCase().replace(/^x-/, '')}
+      each a, b in g[k]
+        +proj(a, b, i)
 
 block title
   title Méridas de Robin Millette
