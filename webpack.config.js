@@ -10,10 +10,17 @@ const addKey = (v) => {
   return v
 }
 
-// data
-const day1 = require('./day-one.json').map(addKey)
-const day2 = require('./day-two.json').map(addKey)
-const day = differenceBy(day2, day1, (v) => v.platform + v._key)
+const grouped = groupBy(
+  sortBy(
+    differenceBy(
+      require('./day-two.json').map(addKey),
+      require('./day-one.json').map(addKey),
+      (v) => v.platform + v._key
+    ),
+    'platform'
+  ),
+  (x) => x._key
+)
 
 module.exports = {
   entry: [
@@ -40,7 +47,7 @@ module.exports = {
   jadeLoader: {
     locals: {
       sortBy: sortBy,
-      grouped: groupBy(day, (x) => x._key)
+      grouped: grouped
     }
   },
   postcss: (webpack) => [
