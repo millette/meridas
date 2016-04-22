@@ -3,9 +3,12 @@
 // npm
 const sortBy = require('lodash.sortby')
 const groupBy = require('lodash.groupby')
+const differenceBy = require('lodash.differenceby')
 
 // data
-const day = require('./day-one.json')
+const day1 = require('./day-one.json')
+const day2 = require('./day-two.json')
+const day = differenceBy(day2, day1, (v) => v.platform + (v.html_url || v.repository_url))
 
 module.exports = {
   entry: [
