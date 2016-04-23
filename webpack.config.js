@@ -6,21 +6,16 @@ const groupBy = require('lodash.groupby')
 const differenceBy = require('lodash.differenceby')
 
 const addKey = (v) => {
+  if (v._key) { return v }
   v._key = (v.html_url || v.repository_url).toLowerCase()
   return v
 }
 
-const grouped = groupBy(
-  sortBy(
-    differenceBy(
-      require('./day-two.json').map(addKey),
-      require('./day-one.json').map(addKey),
-      (v) => v.platform + v._key
-    ),
-    'platform'
-  ),
-  (x) => x._key
-)
+const grouped = groupBy(sortBy(differenceBy(
+  require('./day-two.json').map(addKey),
+  require('./day-one.json').map(addKey),
+  (v) => v.platform + v._key
+), 'platform'), '_key')
 
 module.exports = {
   entry: [
