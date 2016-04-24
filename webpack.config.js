@@ -12,8 +12,8 @@ const addKey = (v) => {
 }
 
 const grouped = groupBy(sortBy(differenceBy(
-  require('./day-two.json').map(addKey),
-  require('./day-one.json').map(addKey),
+  require('./working/day-two.json').map(addKey),
+  require('./working/day-one.json').map(addKey),
   (v) => v.platform + v._key
 ), 'platform'), '_key')
 
