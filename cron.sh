@@ -5,6 +5,7 @@ yesterday=`date --date=yesterday +"%Y-%m-%d"`
 mv index.html $yesterday.html
 cd -
 
+mkdir working
 cd working
 mv day-two.json day-one.json
 ../node_modules/.bin/star-where millette -n 50 > day-two.json
