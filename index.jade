@@ -2,13 +2,13 @@ extends ./_layout.jade
 
 mixin proj(d, c, j)
   div(id='tab-' + c + '-' + j)
-    h3= d.name
+    h4= d.name
 
     if d.normalized_licenses
-      p Licenses: #{d.normalized_licenses.join(', ')}
+      p Licences: #{d.normalized_licenses.join(', ')}
 
     if d.language && d.platform === 'x-GITHUB'
-      p Language: #{d.language}
+      p Langage: #{d.language}
 
     p: a(href=d.html_url || d.repository_url)= d.html_url || d.repository_url
 
@@ -35,9 +35,10 @@ block title
   title Méridas de Robin Millette
 
 block content
-  h1 Méridas
+  h1 Méridas de Robin Millette
   p: a(href='https://github.com/stars/millette') Étoiles sur github/millette
-  h2 Les #{Object.keys(grouped).length} projets de la journée:
+  h2 Les étoiles du #{new Date().toLocaleDateString()}
+  h3 Les #{Object.keys(grouped).length} projets de la journée:
 
   section
     +groups(grouped)
