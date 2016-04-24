@@ -2,7 +2,7 @@
   "name": "meridas",
   "description": "Projets I'm starring daily on github.",
   "license": "MIT",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "repository": "millette/meridas",
   "author": {
     "name": "Robin Millette",
@@ -43,6 +43,7 @@
     "postcss-url": "^5.1.1",
     "responsive-tabs": "^1.6.0",
     "standard": "^6.0.8",
+    "star-where": "^0.1.2",
     "style-loader": "^0.13.1",
     "webpack": "^1.13.0",
     "webpack-dev-server": "^1.14.1"
