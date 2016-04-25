@@ -12,4 +12,5 @@ mv day-two.json day-one.json
 cd -
 
 npm run make
+export SSH_AUTH_SOCK=$( ls /tmp/ssh-*/agent* )
 rsync -vaPS dist/* rollodeqc.com:/var/local/www/meridas.rollodeqc.com/public/millette/

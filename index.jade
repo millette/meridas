@@ -4,6 +4,9 @@ mixin proj(d, c, j)
   div(id='tab-' + c + '-' + j)
     h4= d.name
 
+    if d.description
+      p= d.description
+
     if d.normalized_licenses
       p Licences: #{d.normalized_licenses.join(', ')}
 
