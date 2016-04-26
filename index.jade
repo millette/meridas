@@ -7,7 +7,7 @@ mixin proj(d, c, j)
     if d.description
       p= d.description
 
-    if d.normalized_licenses
+    if d.normalized_licenses && d.normalized_licenses.length
       p Licences: #{d.normalized_licenses.join(', ')}
 
     if d.language && d.platform === 'x-GITHUB'
