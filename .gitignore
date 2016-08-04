@@ -3,6 +3,7 @@ dist
 index.html
 working
 cron-oldish.sh
+.env
 
 # Created by https://www.gitignore.io/api/node,bower
 
