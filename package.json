@@ -39,7 +39,7 @@
     "lodash.differenceby": "^4.8.0",
     "lodash.groupby": "^4.6.0",
     "lodash.sortby": "^4.7.0",
-    "lost": "^6.7.2",
+    "lost": "^7.1.0",
     "postcss": "^5.2.0",
     "postcss-browser-reporter": "^0.5.0",
     "postcss-cssnext": "^2.8.0",
