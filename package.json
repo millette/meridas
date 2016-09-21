@@ -51,7 +51,7 @@
     "responsive-tabs": "^1.6.1",
     "sockjs": "^0.3.17",
     "standard": "^8.1.0",
-    "star-where": "^0.1.7",
+    "star-where": "^0.1.8",
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
     "webpack": "^1.13.2",
