@@ -8,7 +8,7 @@ const differenceBy = require('lodash.differenceby')
 
 const addKey = (v) => {
   if (v._key) { return v }
-  v._key = (v.html_url || v.repository_url).toLowerCase()
+  v._key = (v.html_url || v.repository_url || '').toLowerCase()
   return v
 }
 
