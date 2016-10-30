@@ -10,4 +10,4 @@ mv working/day-two.json working/day-one.json
 
 npm run make
 export SSH_AUTH_SOCK=$( ls /tmp/ssh-*/agent* )
-rsync -vaPS dist/* rollodeqc.com:/var/local/www/meridas.rollodeqc.com/public/millette/
+rsync -vaPSz dist/* rollodeqc.com:/var/local/www/meridas.rollodeqc.com/public/millette/
