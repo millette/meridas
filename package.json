@@ -19,16 +19,17 @@
   },
   "standard": {
     "ignore": [
-      "js/polyfill/"
+      "js/polyfill/",
+      "dist-bu"
     ]
   },
   "devDependencies": {
-    "autoprefixer": "^6.5.1",
-    "babel-core": "^6.18.0",
-    "babel-eslint": "^7.1.0",
+    "autoprefixer": "^6.5.3",
+    "babel-core": "^6.18.2",
+    "babel-eslint": "^7.1.1",
     "babel-loader": "^6.2.7",
     "babel-preset-es2015": "^6.18.0",
-    "css-loader": "^0.25.0",
+    "css-loader": "^0.26.0",
     "es6-promise": "^4.0.5",
     "exports-loader": "^0.6.3",
     "file-loader": "^0.9.0",
@@ -39,13 +40,13 @@
     "lodash.differenceby": "^4.8.0",
     "lodash.groupby": "^4.6.0",
     "lodash.sortby": "^4.7.0",
-    "lost": "^7.1.0",
+    "lost": "^7.1.1",
     "postcss": "^5.2.5",
     "postcss-browser-reporter": "^0.5.0",
     "postcss-cssnext": "^2.8.0",
-    "postcss-import": "^8.1.2",
-    "postcss-loader": "^1.1.0",
-    "postcss-reporter": "^1.4.1",
+    "postcss-import": "^8.2.0",
+    "postcss-loader": "^1.1.1",
+    "postcss-reporter": "^2.0.0",
     "postcss-responsive-type": "^0.4.0",
     "postcss-url": "^5.1.2",
     "responsive-tabs": "^1.6.1",
@@ -56,6 +57,6 @@
     "url-loader": "^0.5.7",
     "webpack": "^1.13.3",
     "webpack-dev-server": "^1.16.2",
-    "whatwg-fetch": "^1.0.0"
+    "whatwg-fetch": "^1.1.1"
   }
 }
